@@ -1,2 +1,3 @@
 # yahiya1_demo
-this is my first git repository
+THIS IS MY FIRST REPOSITERY.
+AUTHOR = YAHIYA BAIG
